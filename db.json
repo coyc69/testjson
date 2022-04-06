@@ -27,11 +27,6 @@
 		{ "id": "soup", "title": "Soup-6", "url": "/soup/soup_6.jgp", "cost": 17},
 		{ "id": "soup", "title": "Soup-7", "url": "/soup/soup_7.jgp", "cost": 28},
 		{ "id": "soup", "title": "Soup-8", "url": "/soup/soup_8.jgp", "cost": 25},
-		{ "id": "soup", "title": "Soup-9", "url": "/soup/soup_9.jgp", "cost": 14},
-        { "id": "snack", "title": "Snack-1", "url": "/snack/snack_1.jgp", "cost": 9},
-		{ "id": "snack", "title": "Snack-2", "url": "/snack/snack_2.jgp", "cost": 8},
-		{ "id": "snack", "title": "Snack-3", "url": "/snack/snack_3.jgp", "cost": 4},
-		{ "id": "snack", "title": "Snack-4", "url": "/snack/snack_4.jgp", "cost": 11}
-		
+		{ "id": "soup", "title": "Soup-9", "url": "/soup/soup_9.jgp", "cost": 14}		
 	]
 }
