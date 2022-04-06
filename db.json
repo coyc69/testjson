@@ -1,0 +1,37 @@
+{
+    "products": [
+		{ "id": "pizza", "title": "Pizza-1", "url": "/pizza/pizza_1.jgp", "cost": 23},
+		{ "id": "pizza", "title": "Pizza-2", "url": "/pizza/pizza_2.jgp", "cost": 17},
+		{ "id": "pizza", "title": "Pizza-3", "url": "/pizza/pizza_3.jgp", "cost": 11},
+		{ "id": "pizza", "title": "Pizza-4", "url": "/pizza/pizza_4.jgp", "cost": 31},
+		{ "id": "pizza", "title": "Pizza-5", "url": "/pizza/pizza_5.jgp", "cost": 24},
+		{ "id": "pizza", "title": "Pizza-6", "url": "/pizza/pizza_6.jgp", "cost": 43},
+		{ "id": "pizza", "title": "Pizza-7", "url": "/pizza/pizza_7.jgp", "cost": 15},
+		{ "id": "pizza", "title": "Pizza-8", "url": "/pizza/pizza_8.jgp", "cost": 27},
+		{ "id": "pizza", "title": "Pizza-9", "url": "/pizza/pizza_9.jgp", "cost": 34},
+		{ "id": "pizza", "title": "Pizza-10", "url": "/pizza/pizza_10.jgp", "cost": 40},
+		{ "id": "salad", "title": "Salad-1", "url": "/salad/salad_1.jgp", "cost": 8},
+		{ "id": "salad", "title": "Salad-2", "url": "/salad/salad_2.jgp", "cost": 11},
+		{ "id": "salad", "title": "Salad-3", "url": "/salad/salad_3.jgp", "cost": 14},
+		{ "id": "salad", "title": "Salad-4", "url": "/salad/salad_4.jgp", "cost": 12},
+		{ "id": "salad", "title": "Salad-5", "url": "/salad/salad_5.jgp", "cost": 12},
+		{ "id": "salad", "title": "Salad-6", "url": "/salad/salad_6.jgp", "cost": 17},
+		{ "id": "salad", "title": "Salad-7", "url": "/salad/salad_7.jgp", "cost": 21},
+		{ "id": "salad", "title": "Salad-8", "url": "/salad/salad_8.jgp", "cost": 25},
+		{ "id": "salad", "title": "Salad-9", "url": "/salad/salad_9.jgp", "cost": 9},
+        { "id": "soup", "title": "Soup-1", "url": "/soup/soup_1.jgp", "cost": 18},
+		{ "id": "soup", "title": "Soup-2", "url": "/soup/soup_2.jgp", "cost": 21},
+		{ "id": "soup", "title": "Soup-3", "url": "/soup/soup_3.jgp", "cost": 24},
+		{ "id": "soup", "title": "Soup-4", "url": "/soup/soup_4.jgp", "cost": 22},
+		{ "id": "soup", "title": "Soup-5", "url": "/soup/soup_5.jgp", "cost": 11},
+		{ "id": "soup", "title": "Soup-6", "url": "/soup/soup_6.jgp", "cost": 17},
+		{ "id": "soup", "title": "Soup-7", "url": "/soup/soup_7.jgp", "cost": 28},
+		{ "id": "soup", "title": "Soup-8", "url": "/soup/soup_8.jgp", "cost": 25},
+		{ "id": "soup", "title": "Soup-9", "url": "/soup/soup_9.jgp", "cost": 14},
+        { "id": "snack", "title": "Snack-1", "url": "/snack/snack_1.jgp", "cost": 9},
+		{ "id": "snack", "title": "Snack-2", "url": "/snack/snack_2.jgp", "cost": 8},
+		{ "id": "snack", "title": "Snack-3", "url": "/snack/snack_3.jgp", "cost": 4},
+		{ "id": "snack", "title": "Snack-4", "url": "/snack/snack_4.jgp", "cost": 11}
+		
+	]
+}
