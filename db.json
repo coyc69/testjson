@@ -1,4 +1,4 @@
-{  		[{ "id": "pizza", "title": "Pizza-1", "url": "/pizza/pizza_1.jgp", "cost": 23},
+[		{ "id": "pizza", "title": "Pizza-1", "url": "/pizza/pizza_1.jgp", "cost": 23},
 		{ "id": "pizza", "title": "Pizza-2", "url": "/pizza/pizza_2.jgp", "cost": 17},
 		{ "id": "pizza", "title": "Pizza-3", "url": "/pizza/pizza_3.jgp", "cost": 11},
 		{ "id": "pizza", "title": "Pizza-4", "url": "/pizza/pizza_4.jgp", "cost": 31},
@@ -23,4 +23,5 @@
 		{ "id": "soup", "title": "Soup-6", "url": "/soup/soup_6.jgp", "cost": 17},
 		{ "id": "soup", "title": "Soup-7", "url": "/soup/soup_7.jgp", "cost": 28},
 		{ "id": "soup", "title": "Soup-8", "url": "/soup/soup_8.jgp", "cost": 25},
-		{ "id": "soup", "title": "Soup-9", "url": "/soup/soup_9.jgp", "cost": 14}]}
+		{ "id": "soup", "title": "Soup-9", "url": "/soup/soup_9.jgp", "cost": 14}
+]
