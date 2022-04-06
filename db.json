@@ -1,4 +1,4 @@
-{   "products": [{ "id": "pizza", "title": "Pizza-1", "url": "/pizza/pizza_1.jgp", "cost": 23},
+{  		[{ "id": "pizza", "title": "Pizza-1", "url": "/pizza/pizza_1.jgp", "cost": 23},
 		{ "id": "pizza", "title": "Pizza-2", "url": "/pizza/pizza_2.jgp", "cost": 17},
 		{ "id": "pizza", "title": "Pizza-3", "url": "/pizza/pizza_3.jgp", "cost": 11},
 		{ "id": "pizza", "title": "Pizza-4", "url": "/pizza/pizza_4.jgp", "cost": 31},
